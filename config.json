@@ -1,0 +1,17 @@
+{
+    "prefix": "nopub!",
+    "token": "YOUR_PREFIX",
+    "server_ID": "ID_SERVEUR",
+    "channel_LOG": "LOGCHANNEL_SERVEUR",
+    "nopub": true,
+    "pub": [
+        "discord.me",
+        "discord.io",
+        "discord.gg",
+        "invite.me",
+        "discordapp.com/invite",
+        ".fr",
+        ".com",
+        ".xyz"
+    ]
+}
